@@ -1,7 +1,7 @@
 ---
 title: "Combining Formal and Informal Information in Bayesian Program Analysis via Soft Evidences"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/OOPSLA-25
 excerpt: ''
 date: 2025-10
