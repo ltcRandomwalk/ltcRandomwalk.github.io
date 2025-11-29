@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/OOPSLA-25
 excerpt: ''
-date: 2025-10
+date: 2025-10-01
 venue: 'OOPSLA 2025'
 slidesurl: ''
 paperurl: ''
